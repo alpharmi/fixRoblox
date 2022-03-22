@@ -1,6 +1,6 @@
 {
     "name": "fixRoblox",
-    "description": "Fix Roblox's website mistakes.",
+    "description": "Fix Roblox's website mistakes.\nFind all source code here: https://github.com/alpharmi/fixRoblox\n\nCurrent Features:\n-Reorders continue tab back to the top.",
     "version": "1.0",
     "manifest_version": 3,
 
